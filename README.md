@@ -31,6 +31,6 @@ Once that is selected, you can now click on the button that says "Start Monitori
  
 6. After, plug in the Raspberry Pi Pico to your computer and hold the BOOTSEL Button to it. Then, click on Run Project.
 
-7.After that, you will go over to the Serial Monitor, and go to the area where you have your COM ports located for your computer. Once that is selected, you can now click on the button that says "Start Monitoring". Your program will start to run. 
+7. After that, you will go over to the Serial Monitor, and go to the area where you have your COM ports located for your computer. Once that is selected, you can now click on the button that says "Start Monitoring". Your program will start to run. 
 
 8. Test each fault injection code program for the euler, quicksort, and matrix multiplication programs.
