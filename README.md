@@ -9,7 +9,6 @@ This is a tutorial that shows how to inject faults into C programs in VS Code
 <img width="1919" height="1028" alt="Screenshot 2026-01-19 224116" src="https://github.com/user-attachments/assets/bd3e00c6-d2b8-4e76-87c9-5804ee1e5ec1" />
 
 
-
 In order to create a new Pico Project, you click on the Pico logo on the left, and you click on New C/C++ Project. From there, you will type the name of the program you are running and make sure to have "Pico" set as your Board Type and the box that says Console over USB.
 
 Choose which code to start with, the Euler, Quicksort, or Matrix Multiplication.
