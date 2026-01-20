@@ -8,5 +8,5 @@ This is a tutorial that shows how to inject faults into C programs in VS Code
 <img width="1919" height="1043" alt="Screenshot 2026-01-19 224059" src="https://github.com/user-attachments/assets/75c01565-a982-4ef0-9fc9-63183cbe69d3" />
 <img width="1919" height="1028" alt="Screenshot 2026-01-19 224116" src="https://github.com/user-attachments/assets/bd3e00c6-d2b8-4e76-87c9-5804ee1e5ec1" />
 
-5. Choose which code to start with, the Euler, Quicksort, or Matrix Multiplication.
-6. Run the regular program first. In the sleep_ms section, you might have to adjust the delay time depending on how your Pico operates.
+3. Choose which code to start with, the Euler, Quicksort, or Matrix Multiplication.
+4. Run the regular program first. In the sleep_ms section, you might have to adjust the delay time depending on how your Pico operates.
