@@ -12,9 +12,13 @@ This is a tutorial that shows how to inject faults into C programs in VS Code
 In order to create a new Pico Project, you click on the Pico logo on the left, and you click on New C/C++ Project. From there, you will type the name of the program you are running and make sure to have "Pico" set as your Board Type and the box that says Console over USB.
 
 Choose which code to start with, the Euler, Quicksort, or Matrix Multiplication.
+
 Run the regular program first. In the sleep_ms section, you might have to adjust the delay time depending on how your Pico operates.
+
 In order to run these programs, once you have the program loaded, first you have to save the program. 
+
 Go to File -> Save in the top left. Then go to the Pico logo, and click on Compile Project. After, plug in the Raspberry Pi Pico to your computer and hold the BOOTSEL Button to it. Then, click on Run Project. After that, you will go over to the Serial Monitor, and go to the area where you have your COM ports located for your computer. 
+
 Once that is selected, you can now click on the button that says "Start Monitoring". Your program will start to run. 6. Test each fault injection code program for the euler, quicksort, and matrix multiplication programs.
 
 3. Choose which code to start with, the Euler, Quicksort, or Matrix Multiplication.
