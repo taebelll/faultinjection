@@ -1,7 +1,6 @@
-Fault Injection Methods on Visual Studio Code (VS Code)
-Silent Data Corruption (SDC) Fault, Crash Fault, Hang Fault, Benign Faults
+Fault Injection Methods on Visual Studio Code (VS Code) with Silent Data Corruption (SDC) Fault, Crash Fault, Hang Fault, Benign Faults
 
-This is a tutorial that shows how to inject faults into C programs in VS Code
+This is a tutorial that shows how to inject faults into C programs in VS Code.
 
 1. Install VS Code on your computer.
 
