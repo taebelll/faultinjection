@@ -1,5 +1,7 @@
 Fault Injection Methods on Visual Studio Code (VS Code) with Silent Data Corruption (SDC) Fault, Crash Fault, Hang Fault, Benign Faults
 
+Please refer to the Getting started with Raspberry Pi Pico-series for additional help. https://pip.raspberrypi.com/documents/RP-008276-DS-1-getting-started-with-pico.pdf, 
+
 This is a tutorial that shows how to inject faults into C programs in VS Code.
 
 1. Install VS Code on your computer.
